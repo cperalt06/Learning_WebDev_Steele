@@ -1,0 +1,16 @@
+div {
+    border: 15px solid #bdc3c7;
+    margin: 1% 15%;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+h2 {
+    color: 2c3e50;
+}
+
+#date {
+    color: #3498db;
+}
+
